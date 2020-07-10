@@ -6,6 +6,9 @@ Programa que recibe como entrada (por teclado) una secuencia de palabras separad
 ## cuenta_apariciones.py
 Programa que cuenta y muestra el número de apariciones de cada carácter de una cadena de texto introducida por consola.
 
+## ordena_ciudades.py
+Programa que devuelve una lista de ciudades, de mas de 200.000 habitantes, ordenada de mayor a menor. 
+
 Para ejecutar aplicación:
   - descargar proyecto
   - abrir ventana de comandos
