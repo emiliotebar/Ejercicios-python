@@ -9,7 +9,11 @@ Programa que cuenta y muestra el número de apariciones de cada carácter de una
 ## ordena_ciudades.py
 Programa que devuelve una lista de ciudades, de mas de 200.000 habitantes, ordenada de mayor a menor. 
 
-Para ejecutar aplicación:
+## mapa_caracteres.py
+Programa que devuelve un mapa de carcteres único de una palabra. El mapa de caracteres es una lista numérica en la que el número 0 se corresponde con el primer carácter de la palabra, el 1 con el siguiente caracter diferente y así sucesivamente.
+
+
+## Para ejecutar aplicación:
   - descargar proyecto
   - abrir ventana de comandos
   - ir al directorio del proyecto descargado
