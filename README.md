@@ -12,6 +12,9 @@ Programa que devuelve una lista de ciudades, de mas de 200.000 habitantes, orden
 ## mapa_caracteres.py
 Programa que devuelve un mapa de carcteres único de una palabra. El mapa de caracteres es una lista numérica en la que el número 0 se corresponde con el primer carácter de la palabra, el 1 con el siguiente caracter diferente y así sucesivamente.
 
+## crea_cuadrado.py
+Programa que toma como argumento un número entero 'n' y genera un cuadrado de 'n' x 'n', formado por el número 'n'.
+
 
 ## Para ejecutar aplicación:
   - descargar proyecto
