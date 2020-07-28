@@ -15,6 +15,9 @@ Programa que devuelve un mapa de carcteres único de una palabra. El mapa de car
 ## crea_cuadrado.py
 Programa que toma como argumento un número entero 'n' y genera un cuadrado de 'n' x 'n', formado por el número 'n'.
 
+## mayoria_absoluta.py
+Programa que indica si existe mayoría absoluta o no, dada una lista de votos.
+
 
 ## Para ejecutar aplicación:
   - descargar proyecto
