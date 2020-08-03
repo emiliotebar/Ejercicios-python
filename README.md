@@ -18,6 +18,8 @@ Programa que toma como argumento un número entero 'n' y genera un cuadrado de '
 ## mayoria_absoluta.py
 Programa que indica si existe mayoría absoluta o no, dada una lista de votos.
 
+## ordena_positivos.py
+Programa que dada una lista de números enteros, devuelve una nueva lista con los números positivos ordenados de menor a mayor, y mantiene los números negativos en la misma posición que la lista original.
 
 ## Para ejecutar aplicación:
   - descargar proyecto
