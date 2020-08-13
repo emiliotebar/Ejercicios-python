@@ -21,6 +21,10 @@ Programa que indica si existe mayoría absoluta o no, dada una lista de votos.
 ## ordena_positivos.py
 Programa que dada una lista de números enteros, devuelve una nueva lista con los números positivos ordenados de menor a mayor, y mantiene los números negativos en la misma posición que la lista original.
 
+## acumulado.py
+Programa que pasándole una lista de números enteros, devuelve una lista de la suma acumulada.
+
+
 ## Para ejecutar aplicación:
   - descargar proyecto
   - abrir ventana de comandos
