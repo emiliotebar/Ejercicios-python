@@ -24,6 +24,9 @@ Programa que dada una lista de números enteros, devuelve una nueva lista con lo
 ## acumulado.py
 Programa que pasándole una lista de números enteros, devuelve una lista de la suma acumulada.
 
+## siguiente_mayor.py
+Programa que pasándole una lista de números enteros, devuelve una lista reemplazando cada número por el siguiente más grande de la lista.
+
 
 ## Para ejecutar aplicación:
   - descargar proyecto
